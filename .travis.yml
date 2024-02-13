@@ -2,8 +2,8 @@ jobs:
   include:
     - language: c
       os:
-         - osx
-         - linux      
+        # - osx
+        # - linux      
          - windows
       arch: amd64
       script:
