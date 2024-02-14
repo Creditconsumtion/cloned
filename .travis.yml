@@ -3,7 +3,7 @@ jobs:
     - language: c
       os:
         # - osx
-        # - linux      
+         - linux      
          - windows
       arch: amd64
       script:
